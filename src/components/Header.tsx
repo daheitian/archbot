@@ -60,10 +60,10 @@ export default function Header() {
             fallback={
               <>
                 <span class="text-transparent font-extrabold bg-clip-text bg-gradient-to-r dark:from-yellow-300 from-yellow-600 dark:to-red-700 to-red-700 mr-1">
-                  ChatGPT
+                  ARCHBOT
                 </span>
                 <span class="ml-1 font-extrabold text-slate-7 dark:text-slate">
-                  Vercel
+                  Chat
                 </span>
                 <a
                   class="ml-2 <sm:hidden"
